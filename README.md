@@ -7,5 +7,5 @@ mechanics is fascinating to me and I learnt more about methods of animation and 
 
 
 Momo is a big BIG eater and loves pudding but is only allowed 3 puddings a day to watch her diet,
-this wonder pudding dream allows her to consume as many pudding as her heart desires.
+this wonderful pudding dream allows her to consume as many pudding as her heart desires.
 but all things come to an end, fall of the tower and back to her 3 puddings a day only diet.
