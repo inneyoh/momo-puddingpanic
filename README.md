@@ -1,6 +1,6 @@
 # momo-puddingpanic
 
-played something similar in CookieRun Kingdom, didn't know about Doodle Jump.
+played something similar in CookieRun Kingdom, didn't know about Doodle Jump. </br>
 mechanics is fascinating to me and I learnt more about methods of animation and moving targets.
 - making body parts separately allows smooth but linear animation possible to code.
 - game level dynamics and RNG still needs more reading.
